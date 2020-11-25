@@ -7,6 +7,6 @@
 <title>join.jsp</title>
 </head>
 <body>
-	<a href="..Index.jsp">메인으로</a>
+	<a href="../Index.jsp">메인으로</a>
 </body>
 </html>
