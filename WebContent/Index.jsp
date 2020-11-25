@@ -8,12 +8,6 @@
 </head>
 <body>
     <h2>Git수업하기</h2>
-    <fieldset>
-    	<legend>깃 허브 연동</legend>
-    	<ul>
-    		<li>자바</li>
-    		<li>스프링</li>
-    	</ul>
-    </fieldset>
+    <h3>자바</h3>
 </body>
 </html>
