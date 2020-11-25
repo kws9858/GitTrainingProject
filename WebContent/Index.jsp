@@ -12,6 +12,7 @@
     	<legend>깃 허브 연동</legend>
     	<ul>
     		<li>자바</li>
+    		<li>스프링</li>
     	</ul>
     </fieldset>
 </body>
