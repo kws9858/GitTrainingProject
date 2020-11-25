@@ -13,6 +13,7 @@
     	<ul>
     		<li>자바</li>
     		<li>스프링</li>
+            <li>제이쿼리</li>
     	</ul>
     </fieldset>
 </body>
