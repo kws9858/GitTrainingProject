@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Git사용하기</title>
 </head>
 <body>
-
+    <h2>Git수업하기</h2>
 </body>
 </html>
